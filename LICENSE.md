@@ -1,4 +1,4 @@
-# 
+# Profissional Cat vs Dog Classifier with PyTorch and Streamlit plugins. Com aprendizado por transferência e IA generativa — otimizado para máximo desempenho.
 
 
 
